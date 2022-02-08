@@ -371,8 +371,6 @@ plt.show()
 ```
 
 
-![png](output_22_0.png)
-
 
 
 ```python
